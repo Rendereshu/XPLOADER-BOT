@@ -41,7 +41,7 @@ global.packname = process.env.STICKER_PACK_NAME || "XＥꜱʜᴜ"
 //The sticker pack name
 
 //=================================================//
-global.author = process.env.STICKER_AUTHOR_NAME || "EshuBot" 
+global.author = process.env.STICKER_AUTHOR_NAME || "Eshu whatsapp Bot" 
 //The sticker author name
 
 //=================================================//
