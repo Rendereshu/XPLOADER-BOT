@@ -75,7 +75,7 @@ global.statusemoji = process.env.STATUS_EMOJI || '🗿'
 //Set the emoji that you want to be reacted to status
 
 //=================================================//
-global.timezones = process.env.TIMEZONE || "India Standard Time" 
+global.timezones = process.env.TIMEZONE || "India/Standard" 
 //Don't edit this if you don't know!
 
 //=================================================//
@@ -111,7 +111,7 @@ global.mess = {
   nsfw: '*Tell the admin to enable NSFW first!*', 
   done: '*Done*', 
   error: '*Sorry, I cannot perform that action!*', 
-  success: '*XＥꜱʜᴜ*', 
+  success: '*Success XＥꜱʜᴜ*', 
   premium: '*Only premium users can use this command!*', 
   owner: '*Apologies, only my owner can use this command!*', 
   group: '*This feature becomes available when you use it in a group!*', 
