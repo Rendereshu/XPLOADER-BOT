@@ -1,5 +1,5 @@
-  //project_name : XPLOADER
-// @author : TYLOR
+  //project_name : XＥꜱʜᴜ-BOT
+// @author : Eshan kavishka
 // @youtube : https://www.youtube.com/@heyits_tylor
 // @instagram : heyits_tylor
 // @telegram : t.me/heyits_tylor
@@ -19,7 +19,7 @@ global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER~eyJub2lzZUtleSI6eyJwcml2
 //Enter your Xploader session id here; must start with XPLOADER~
 
 //=================================================//
-global.botname = process.env.BOT_NAME || 'XＥꜱʜᴜ' 
+global.botname = process.env.BOT_NAME || 'XＥꜱʜᴜ-BOT' 
 //Your desired bot name
 
 //=================================================//
@@ -34,14 +34,14 @@ global.ownername = process.env.OWNER_NAME || 'Eshan kavishka'
 global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg=="
 
 //=================================================//
-global.wm = process.env.GL_WM || "XＥꜱʜᴜ"
+global.wm = process.env.GL_WM || "XＥꜱʜᴜ-BOT"
 
 //=================================================//
-global.packname = process.env.STICKER_PACK_NAME || "XＥꜱʜᴜ" 
+global.packname = process.env.STICKER_PACK_NAME || "XＥꜱʜᴜ-BOT" 
 //The sticker pack name
 
 //=================================================//
-global.author = process.env.STICKER_AUTHOR_NAME || "Eshu whatsapp Bot" 
+global.author = process.env.STICKER_AUTHOR_NAME || "Eshan whatsapp bot sticker" 
 //The sticker author name
 
 //=================================================//
